@@ -10,12 +10,14 @@ def multiply(x, y):
 def divide(x, y):
     return x / y
 
+print("WELCOME TO SHEEHS CALCULATOR")
+print("----------------------------------------------------------------")
 print("Select operation:")
 print("1. Addition")
 print("2. Subtraction")
 print("3. Multiplication")
 print("4. Division")
-
+print("----------------------------------------------------------------")
 choice = input("Enter your choice (1/2/3/4): ")
 
 num1 = float(input("Enter the first number: "))
