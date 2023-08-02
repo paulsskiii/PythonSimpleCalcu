@@ -18,7 +18,7 @@ print("2. Subtraction")
 print("3. Multiplication")
 print("4. Division")
 print("----------------------------------------------------------------")
-choice = input("Enter your choice (1/2/3/4): ")
+choice = input("Enter your choice from the operation: ")
 
 num1 = float(input("Enter the first number: "))
 num2 = float(input("Enter the second number: "))
