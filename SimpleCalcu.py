@@ -10,7 +10,7 @@ def multiply(x, y):
 def divide(x, y):
     return x / y
 
-print("WELCOME TO SHEEHS CALCULATOR")
+print("WELCOME TO SHEEHS CALCULATOR hehehehe")
 print("----------------------------------------------------------------")
 print("Select operation:")
 print("1. Addition")
